@@ -7,19 +7,29 @@ In this project, we were given two files, a CSV file containing data about music
 We were given the task to build a classifier for this dataset which was highly unbalanced and then deploying that model to any of the cloud services.
 
 Link to deployed website ⚡
+
 Sure, here you go: Music Genre Predict
 
 Preview 📺
 
 
 Tech Stack 🏟
+
 Python (Langauge)
 Libraries:
+
 Numpy (Data Manipulation)
+
 Pandas (Data Manipulation)
+
 Seaborn (Data Visualization)
+
 Sklearn (Model Building)
+
 Flask (Model Deployment)
+
 HTML (Web interface)
+
 CSS (Web enhancement)
+
 Heroku (Website Deployment)
